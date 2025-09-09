@@ -20,7 +20,7 @@
   :root{
     --header: 2.2rem;
     --title: 5.4rem;
-    --text: 4rem;
+    --text: 3.5rem;
     --footer: 2rem;
     --circle: rgb(247, 54, 54);
     --current-header: #ede268;
@@ -221,6 +221,7 @@
   @media(min-width:900px){
 
     :root{
+        --text: 4rem;
         --camera-position-circle: 2.8;
     }
 
