@@ -374,16 +374,16 @@
 
     
     footer .footer_elements .--github{
-        background-image: url(/assets/svg/social-media/github-brands.svg);
+        background-image: url(/assets/social-media/github-brands.svg);
         content: 0;
     }
 
     footer .footer_elements .--linkeding{
-        background-image: url(/assets/svg/social-media/linkeding_black.svg);
+        background-image: url(/assets/social-media/linkeding_black.svg);
     }
 
     footer .footer_elements .--instagram{
-        background-image: url(/assets/svg/social-media/ig_black.svg);
+        background-image: url(/assets/social-media/ig_black.svg);
     }
 
     
