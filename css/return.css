@@ -240,6 +240,10 @@
         display: block;
     }
 
+   .main_text{
+      font-size: var(--text);
+    }
+
 
     /* FOOTER */
 
